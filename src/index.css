@@ -1,13 +1,167 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+    background: rgb(45,118,127);
+    background: linear-gradient(90deg, rgba(45,118,127,1) 70%, rgb(11, 171, 137) 100%);
+    padding: 50px 30px;
+    margin: 0;
+  }
+  h1, h2, p, ul, li {
+    font-family: sans-serif;
+  }
+  ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+  }
+  ul.header {
+    background-color: #111;
+    padding: 0;
+  }
+  ul.header li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+  }
+  h1 {
+    display:inline
+  }
+  .content {
+    background-color: #FFF;
+    padding: 20px;
+  }
+  .content h2 {
+    padding: 0;
+    margin: 0;
+  }
+  .content li {
+    margin-bottom: 10px;
+  }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+  .active {
+    background-color: #0BAB89;
+  }
+
+  .WAM {
+    font-family: 'Major Mono Display', monospace;
+    font-size: 35px;
+    text-decoration: underline overline;
+    color: #113B3B;
+  } 
+
+  .quote {
+    display: flex;
+    justify-content: center;
+    padding: 25px 0px 25px 0px
+  }
+
+  .skilllist {
+    list-style-type: none;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: center;
+  }
+
+  .homepage1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  span {
+    color: #113B3B;
+    font-style: italic;
+  }
+
+  .bigbr {
+    line-height: 250%;
+  }
+
+  /* Social medias */
+
+  .socials{
+    padding: 25px 50px;
+  }
+
+  a.socials{
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+
+  a.socials:hover {
+    transform: translateY(-2px);
+  }
+
+  a.twitter {
+    color: #49a1eb;
+  }
+
+  a.github {
+    color: #000
+  }
+
+  .bucket {
+    display: flex;
+    justify-content: center;
+
+  }
+
+/* tic tac toe */
+
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+  }
+  
+  ol, ul {
+    padding-left: 30px;
+  }
+  
+  .board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+  
+  .status {
+    margin-bottom: 10px;
+  }
+  
+  .square {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 34px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 34px;
+  }
+  
+  .square:focus {
+    outline: none;
+  }
+  
+  .kbd-navigation .square:focus {
+    background: #ddd;
+  }
+  
+  .game {
+    display: flex;
+    flex-direction: row;
+    padding-left: 45%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  
+  .game-info {
+    margin-left: 20px;
+  }
+  
