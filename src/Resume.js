@@ -12,8 +12,8 @@ class Resume extends Component {
           Mobile: 0450 506 081 <br/>
           E-mail: mmolloy88@outlook.com <br/>
           Linkedin: <a 
-            href="https://www.linkedin.com/in/matthew-molloy-249a6a14a/">
-            https://www.linkedin.com/in/matthew-molloy
+            href="https://www.linkedin.com/in/wearematt88/">
+            https://www.linkedin.com/in/wearematt88/
             </a> <br/>
         
        <br/><hr/>

@@ -40,12 +40,14 @@ class Projects extends Component {
                 <p>Along my way learning the concepts of coding i also worked on several smaller
                     activities like messing around with CSS and building a todo list some of these
                     are uploaded in repositories on my Github account 
+                {/* add image */}
                 </p><div className="bigbr"></div>
 
                 <h3>Gamerspace Forum</h3>
                 <p> As our final project for Coder academy we were split in to small groups and
                     tasked with creating another full stack application, my group decided to create
                     a gaming forum... (work in progress)                   
+                {/* add image */}
                 </p><div className="bigbr"></div>
 
             </div>
