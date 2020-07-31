@@ -11,7 +11,7 @@ class Contact extends Component {
     return (
       
         <div className="socials">
-          <h3>Check out my Github and twitter account: </h3>
+          <h3>Check out my Github, linkedIn or twitter account: </h3>
           <br/>
         <div className="bucket">
           <a
