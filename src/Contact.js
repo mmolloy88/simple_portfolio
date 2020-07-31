@@ -2,7 +2,8 @@ import React, { Component } from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {  
   faTwitter,
-  faGithub
+  faGithub,
+  faLinkedin
 } from '@fortawesome/free-brands-svg-icons'
  
 class Contact extends Component {
@@ -25,6 +26,14 @@ class Contact extends Component {
           >
             <FontAwesomeIcon icon={faGithub} size="2x"/>
           </a>
+
+          <a
+            href="https://www.linkedin.com/in/wearematt88/"
+            className="linkedIn socials"
+          >
+            <FontAwesomeIcon icon={faLinkedin} size="2x"/>
+          </a>
+          
           <br/>
           
           </div>

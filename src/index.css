@@ -103,6 +103,10 @@ body {
     color: #000
   }
 
+  a.linkedIn {
+    color: #0072b1
+  }
+
   .bucket {
     display: flex;
     justify-content: center;
