@@ -8,13 +8,13 @@ class Projects extends Component {
                     Academy, with an intensive bootcamp that was recommended to me. Prior to 
                     this I'd had little experience with code, from accessing the text docs 
                     in the PC game Black and White to add all the spells to my shrine to a 
-                    handful of basic excersises I did with my partner's father. </p> 
+                    handful of basic exercises I did with my partner's father. </p> 
                     <div className="bigbr"></div>
                 <h3>Terminal Diary</h3>
-                <p>starting with a clean slate, we were taken through the basics; the terminal,
+                <p>Starting with a clean slate, we were taken through the basics; the terminal,
                     starting with Ruby and it's basic functions and datatypes culminating in
                     developing a Ruby application that ran in the terminal.</p>
-                <p>this offline application would take the user through a few basic steps, asking
+                <p>This offline application would take the user through a few basic steps, asking
                     them how their day was going, asking 3 questions with boolean (yes/no) answers
                     as well as a rating out of 10 for how their day was going and finally prompting
                     the user to fill out a "diary entry" that was saved to a .txt document
@@ -37,7 +37,7 @@ class Projects extends Component {
                 </p><div className="bigbr"></div>
 
                 <h3>Various Activities</h3>
-                <p>Along my way learning the concepts of coding i also worked on several smaller
+                <p>Along my way learning the concepts of coding I also worked on several smaller
                     activities like messing around with CSS and building a todo list some of these
                     are uploaded in repositories on my Github account 
                 {/* add image */}
