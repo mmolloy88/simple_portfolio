@@ -17,7 +17,7 @@ class Resume extends Component {
             </a> <br/>
         
        <br/><hr/>
-          Career Objective: To find employment and grow my skills as a Web Developer.
+          Career Objective: to find employment and grow my skills as a Web Developer.
        <br/><br/>
        </h4>
        <h4>Employment and Study history:</h4>
@@ -41,7 +41,7 @@ class Resume extends Component {
        <h5>March 2017 - February 2020: Yes Optus Barangaroo <br/>
        Business Specialist</h5> <br/>
               <ul className="skilllist">
-               <li>Staff Management</li>
+               <li>Staff management</li>
                <li>Mobile software troubleshooting</li>
                <li>Stock control</li>
                <li>Conflict resolution</li>
@@ -49,11 +49,11 @@ class Resume extends Component {
        <br/><hr/>
        <h5>March 2016 – October 2016: Huawei Retail Kiosk (BSI Contracting)</h5> <br/>    
           <ul className="skilllist">
-              <li>Customer Service Rep</li>
+              <li>Customer service rep</li>
               <li>Mobile technology and comparison</li>
               <li>Managing business relationships</li>
-              <li>Creating Rosters</li>
-              <li>Product Training</li>
+              <li>Creating rosters</li>
+              <li>Product training</li>
           </ul>
        <hr/>
        
@@ -61,9 +61,9 @@ class Resume extends Component {
        Customer Service Rep</h5><br/>
           <ul className="skilllist"> 
               <li>Telephony and online customer service </li>
-              <li>Inter office communications</li>
-              <li>tracking and placing orders, both online and over the phone</li>
-              <li>Processing Refunds</li>
+              <li>Inter-office communications</li>
+              <li>Tracking and placing orders, both online and over the phone</li>
+              <li>Processing refunds</li>
           </ul>
        <hr/>
        
@@ -72,7 +72,7 @@ class Resume extends Component {
           <ul className="skilllist">
               <li>Setting up for activities and night classes</li>
               <li>Assisting carers throughout the afternoon</li>
-              <li>Food Prep</li>
+              <li>Food prep</li>
           </ul>
        <hr/>
 
@@ -81,10 +81,10 @@ class Resume extends Component {
           <ul className="skilllist">
               <li>OHS (heavy lifting, FIFO, hazard analysis)</li>
               <li>Balancing safe</li>
-              <li>Customer Service</li>
-              <li>Inventory Management</li>
+              <li>Customer service</li>
+              <li>Inventory management</li>
               <li>POS</li>
-              <li>Cash Handling</li>
+              <li>Cash handling</li>
           </ul>
        <hr/>
        <ul className="skilllist">
