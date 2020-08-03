@@ -17,7 +17,7 @@ class Resume extends Component {
             </a> <br/>
         
        <br/><hr/>
-          Career Objective: to find employment and grow my skills as a Web Developer.
+          Career Objective: To find employment and grow my skills as a Web Developer.
        <br/><br/>
        </h4>
        <h4>Employment and Study history:</h4>
